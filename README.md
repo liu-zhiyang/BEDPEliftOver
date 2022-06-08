@@ -1,2 +1,2 @@
 # BEDPEliftOver
-liftOver paired end BED file in R
+liftOver BEDPE file in R, inconsistant coordinates will be discard
